@@ -1,0 +1,4 @@
+include
+<li>
+    {{ $value }}
+</li>
